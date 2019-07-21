@@ -5,7 +5,7 @@
   "author": "Jonn Jasper Ejoc",
   "license": "MIT",
   "scripts": {
-    "start": "webpack-dev-server",
+    "start": "live-server public/",
     "serve": "live-server public/",
     "build": "webpack",
     "dev-server": "webpack-dev-server"
